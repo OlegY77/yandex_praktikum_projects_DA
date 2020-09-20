@@ -5,7 +5,7 @@
       <div class="Box-body px-5 pb-5">
         <article class="markdown-body entry-content container-lg" itemprop="text"><h2><a id="user-content-яндекс-практикум-аналитик-данных" class="anchor" aria-hidden="true" href="#яндекс-практикум-аналитик-данных"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://praktikum.yandex.ru/data-analyst/" rel="nofollow"><b>Яндекс. Практикум "Аналитик данных"</b></a></h2>
 <p><b>Мои лучшие проекты:</b><br>
-<a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/7%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20JK%20%28%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%29.ipynb" rel="nofollow"><b>Анализ бизнес-показателей</b></a><br>
+<a href= "https:https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/1_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82" rel="nofollow"><b>Анализ бизнес-показателей</b></a><br>
 <a href="http://data5yandex.herokuapp.com/" rel="nofollow"><b>Дашборд метрик 5ой когорты курса анализа данных</b></a>
 (работа выполнялась в паре с однокурсником Практикума)
 <br><br><br>
