@@ -1,58 +1,75 @@
-# yandex_praktikum_projects_DA
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных"
       </h2>
     </div>
       <div class="Box-body px-5 pb-5">
         <article class="markdown-body entry-content container-lg" itemprop="text"><h2><a id="user-content-яндекс-практикум-аналитик-данных" class="anchor" aria-hidden="true" href="#яндекс-практикум-аналитик-данных"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a href="https://praktikum.yandex.ru/data-analyst/" rel="nofollow"><b>Яндекс. Практикум "Аналитик данных"</b></a></h2>
 
-Описание всех проектов:</p>
+Описание проектов:</p>
 <table>
 <tbody><tr>
-<td><b>Номер (по курсу)</b></td>
-<td><b>Название (+ссылка)</b></td>
-<td><b>Суть проекта</b></td>
+<td><b>Номер проекта</b></td>
+<td><b>Наименование проекта</b></td>
+<td><b>Описание проекта</b></td>
 <td><b>Используемые библиотеки</b></td>
 </tr><tr>
+<td><b>1</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/1_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0"><b>Яндекс.Музыка</b></a></td>
+<td>На основании исследования пользователей сервиса Яндекс.Музыка, сформулировать музыкальные предпочтения пользователей в зависимости от дня недели, времени суток, сравнить данные по разным городам</td>
+<td><b>Pandas</b></td>
+</tr><tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/1_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82" rel="nofollow"><b>Исследование надежности заемщиков</b></a></td>
-<td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
-Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку. </td>
-<td><b>pandas</b>, <b>pymystem3</b>, <b>ntlk</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/2_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2"><b>Исследование надёжности заёмщиков — анализ банковских данных</b></a></td>
+<td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок </td>
+<td><b>Pandas<b>, <b>PyMystem3 </b>, <b>Python</b>, <b>лемматизация</b>, <b>предобработка данных </b></td>
 </tr><tr>
-<td> <b>3</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/3%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" rel="nofollow"><b>Исследование объявлений о продаже квартир</b></a></td>
-<td>Определение рыночной стоимости объектов недвижимости (на базе данных ресурса Яндекс.Недвижимость). Задача — установить параметры, которые в той или иной степени оказывают влиение на финальную стоимость. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. </td>
-<td>pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>requests</b>, <b>geopy</b>, <b>API Yandex.Геокодер</b></td>
+<td><b>3</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/3_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80 " rel="nofollow"><b> Исследование объявлений о продаже квартир </b></a></td>
+<td> Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
+<td><b>Matplotlib<b>, <b>Pandas<b>, <b>Python<b>, <b>визуализация данных<b>, <b>исследовательский анализ данных<b>, <b>предобработка данных</b></td> 
 </tr><tr>
-<td> <b>4</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/4%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20with%20Folium.ipynb" rel="nofollow"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
-<td>Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.</td>
-<td>pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер</td>
+<td><b>4</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/4_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" rel="nofollow"><b>Определение выгодного тарифа для телеком компании</b></a></td>
+<td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
+<td><b>Pandas<b>, <b>обработка данных<b>, <b>histogram<b>, <b>boxplot<b>, <b>статистический тест<b>, <b>критерий Стьюдента</b></td>
 </tr><tr>
-<td> <b>5</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/5%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" rel="nofollow"><b>Сборный проект-1. Анализ игровой индустрии</b></a></td>
-<td>Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
-<td>pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b></td>
+<td><b>5</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/5_1_%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80" rel="nofollow"><b>Изучение рынка компьютерных игр</b></a></td>
+<td>Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры</td>
+<td><b>Pandas<b>, <b>Matplotlib<b>, <b>NumPy<b>, <b>Python<b>, <b>исследовательский анализ данных<b>, <b>описательная статистика<b>, <b>предобработка данных<b>, <b>проверка статистических гипотез</b></td>
 </tr><tr>
-<td> <b>6</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/6%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb" rel="nofollow"><b>Аналитика в авиакомпании</b></a></td>
-<td>Анализ перелетов по моделям самолетов за определенный период. Составление карты перелетов</td>
-<td>pandas, numpy, matplotlib, scipy, <b>bokeh</b></td>
+<td><b>6</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/6_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" rel="nofollow"><b>Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей</b></a></td>
+<td>Произвести выгрузки и подготовку данных авиакомпаний с помощью SQL, проверить гипотезу о различии среднего спроса на билеты во время различных событий</td>
+<td><b>Matplotlib<b>, <b>Pandas<b>, <b>Python<b>, <b>SQL<b>, <b>SciPy<b>, <b>проверка статистических гипотез</b></td>
 </tr><tr>
-<td> <b>7</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/7%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20JK%20%28%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%29.ipynb" rel="nofollow"><b>Анализ бизнес-показателей</b></a></td>
-<td>Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты.
-Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.
-</td><td>pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b></td>
+<td><b>7</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/7_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%90%D1%84%D0%B8%D1%88%D0%B0" rel="nofollow"><b>Оптимизация маркетинговых затрат в Яндекс.Афише</b></a></td>
+<td>На основе данных о посещениях сайта Яндекс.Афиши изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается</td>
+<td><b>Matplotlib<b>, <b>Pandas<b>, <b>Python<b>, <b>когортный анализ<b>, <b>продуктовые метрики<b>, <b>юнит - экономика</b></td>
 </tr><tr>
-<td> <b>8</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/8%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb" rel="nofollow"><b>Анализ результатов AB-теста</b></a></td>
-<td>Анализ результатов A/B-теста.</td>
-<td>pandas, bokeh, holoviews, scipy</td>
+<td><b>8</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/8_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0_%D0%90%D0%92_%D1%82%D0%B5%D1%81%D1%82" rel="nofollow"><b>Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста</b></a></td>
+<td>Используя данные интернет-магазина, приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами</td>
+<td><b>A/B-тестирование<b>, <b>Matplotlib<b>, <b>Pandas<b>, <b>Python<b>, <b>SciPy<b>, <b>проверка статистических гипотез</b></td>
+</tr><tr>
+<td><b>9</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/9_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA_%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" rel="nofollow"><b>Исследования рынка общепита в Москве для принятия решения об открытии нового заведения</b></a></td>
+<td>Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов</td>
+<td><b>Pandas<b>, <b>Plotly<b>, <b>Python<b>, <b>Seaborn<b>, <b>визуализация данных</b></td>
 </tr><tr>
 <td> <b>10</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/10%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2%20%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.ipynb" rel="nofollow"><b>Сборный проект-2. ААВ-тесты</b></a></td>
-<td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
-<td>pandas, bokeh, plotly, statsmodels</td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/10_2_%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D0%A1%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF_%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B_%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" rel="nofollow"><b>Анализ пользовательского поведения в мобильном приложении</b></a></td>
+<td>На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования</td>
+<td><b>A/B-тестирование<b>, <b>Matplotlib<b>, <b>Pandas<b>, <b>Plotly<b>, <b>Python<b>, <b>Seaborn<b>, <b>визуализация данных<b>, <b>проверка статистических гипотез<b>, <b>продуктовые метрики<b>, <b>событийная аналитика</b></td>
+</tr><tr>
+<td><b>11</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/11_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%94%D0%B7%D0%B5%D0%BD" rel="nofollow"><b>Создание дашборда по пользовательским событиям для агрегатора новостей</b></a></td>
+<td>Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей</td>
+<td><b>PostgreSQL<b>, <b>Python<b>, <b>SQLAlchemy<b>, <b>Tableau<b>, <b>Dash<b>, <b>построение дашбордов<b>, <b>продуктовые метрики</b></td>
+</tr><tr>
+<td> <b>12</b></td>
+<td><a href="https://github.com/OlegY77/yandex_praktikum_projects_DA/tree/master/12_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81_%D1%86%D0%B5%D0%BD%D1%82%D1%80" rel="nofollow"><b>Прогнозирование вероятности оттока пользователей для фитнес-центров</b></a></td>
+<td>На основе данных о посетителях сети фитнес-центров спрогнозировать вероятность оттока для каждого клиента в следующем месяце, сформировать с помощью кластеризации портреты пользователей</td>
+<td><b>Matplotlib<b>, <b>Pandas<b>, <b>Python<b>, <b>Scikit-learn<b>, <b>Seaborn<b>, <b>классификация<b>, <b>кластеризация<b>, <b>машинное обучение</b></td>
+</tr><tr>
 </tr></tbody></table>
 <br><br>
