@@ -69,5 +69,4 @@
 <td><b>Matplotlib<b>, <b>Pandas<b>, <b>Python<b>, <b>Scikit-learn<b>, <b>Seaborn<b>, <b>классификация<b>, <b>кластеризация<b>, <b>машинное обучение</b></td>
 </tr><tr>
 </tr></tbody></table>
-<td> <b>12</b></td>
 <br><br>
